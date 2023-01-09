@@ -14,7 +14,7 @@
 #### In the code section, there is the demo of the website along with all the coding required to make it. Including HTML, CSS, and Javascript.
 
 ## Test Case
-#### As the name says, the test case folder has the table of test cases
+#### As the name says, the test case pdf has the table of test cases
 
 
 ## Project Main Folder
